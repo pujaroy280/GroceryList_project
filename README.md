@@ -1,8 +1,24 @@
 # GroceryList_project
-
 # Objective
+The goal of this project is to build a fully functional JavaScript application. This project
+will be static, and will not need a server to run. As such, no data will be saved, however,
+we are using this to practice building dynamic webpages using JavaScript functions +
+additional principles.
 
 # Instructions
+- Create a grocery list application that allows the following functionalities:
+- Display grocery items in a list with the following properties:
+Name
+Food Category
+Price
+Quantity (units)
+Total cost
+Totals Quantity
+- Button to add new grocery items using prompt() to ask for user input
+- Buttons to separate the categories
+- A button to show all items
+- Order by cost (most to least)
+
 
 
 # User Interface
