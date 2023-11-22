@@ -8,12 +8,12 @@ additional principles.
 # Instructions
 - Create a grocery list application that allows the following functionalities:
 - Display grocery items in a list with the following properties:
-Name
-Food Category
-Price
-Quantity (units)
-Total cost
-Totals Quantity
+1. Name
+2. Food Category
+3. Price
+4. Quantity (units)
+5. Total cost
+6. Totals Quantity
 - Button to add new grocery items using prompt() to ask for user input
 - Buttons to separate the categories
 - A button to show all items
