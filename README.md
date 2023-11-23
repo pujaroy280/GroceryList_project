@@ -1,4 +1,6 @@
 # GroceryList_project
+Link to website: https://pujaroy280.github.io/GroceryList_project/
+
 # Objective
 The goal of this project is to build a fully functional JavaScript application. This project
 will be static, and will not need a server to run. As such, no data will be saved, however,
